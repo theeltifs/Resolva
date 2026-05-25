@@ -1,0 +1,17 @@
+INFO:     127.0.0.1:64317 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64320 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64330 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64334 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64338 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64341 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64345 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64349 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64353 - "GET /tickets?company_id=stylemart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64357 - "GET /analytics?company_id=stylemart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64361 - "GET /tickets?company_id=stylemart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64368 - "GET /tickets?company_id=stylemart HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64383 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62732 - "GET /analytics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62732 - "GET /analytics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62734 - "GET /tickets HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62735 - "GET /tickets HTTP/1.1" 200 OK

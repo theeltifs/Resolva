@@ -1,0 +1,232 @@
+StyleMart — Online Fashion Store
+Knowledge Base & Customer Support Guide
+========================================
+
+## About StyleMart
+StyleMart is an online clothing and accessories store based in Karachi, Pakistan. We ship across Pakistan and internationally to UAE, UK, USA, Canada, and Australia. We offer men's, women's, and kids' fashion including casual wear, formal wear, traditional (shalwar kameez, kurtas), and accessories.
+
+Website: www.stylemart.pk
+Support Email: support@stylemart.pk
+Support Hours: Monday to Saturday, 10 AM – 7 PM PKT
+Phone: +92-21-1234-5678
+
+---
+
+## Orders
+
+### How to Place an Order
+1. Browse the website and add items to your cart.
+2. Go to Cart and click "Proceed to Checkout".
+3. Enter your shipping address and contact details.
+4. Choose a payment method (Credit/Debit Card, EasyPaisa, JazzCash, or Cash on Delivery).
+5. Review your order and click "Place Order".
+6. You will receive a confirmation SMS and email within 5 minutes.
+
+### Order Confirmation
+After placing an order, you receive:
+- An SMS confirmation with your Order ID (e.g., SM-20240501-3847)
+- An email confirmation with full order details
+If you do not receive confirmation within 15 minutes, check your spam folder or contact support.
+
+### How to Track My Order
+1. Go to www.stylemart.pk/track
+2. Enter your Order ID and the phone number used at checkout.
+3. You can see real-time status: Processing → Packed → Dispatched → Out for Delivery → Delivered.
+Alternatively, tracking updates are sent via SMS at every stage.
+
+### Can I Change or Cancel My Order?
+Orders can be changed or cancelled within 2 hours of placement, as long as they have not been packed. To cancel:
+- Call +92-21-1234-5678 or email support@stylemart.pk with your Order ID.
+After 2 hours or once the order is packed, cancellation is not possible. You may refuse delivery and return the item under our return policy instead.
+
+### Minimum Order Value
+There is no minimum order value. However, free shipping applies on orders above PKR 2,500.
+
+---
+
+## Shipping & Delivery
+
+### Delivery Timeframes (Pakistan)
+- Karachi: 1–2 business days
+- Lahore, Islamabad, Rawalpindi: 2–3 business days
+- Other major cities (Faisalabad, Multan, Peshawar, Quetta): 3–4 business days
+- Remote/rural areas: 5–7 business days
+Business days exclude Sundays and public holidays.
+
+### Shipping Charges (Pakistan)
+- Orders below PKR 2,500: PKR 150 flat shipping fee
+- Orders PKR 2,500 and above: FREE shipping
+- Express delivery (same-day in Karachi only): PKR 350 additional
+
+### International Shipping
+We ship to UAE, UK, USA, Canada, and Australia.
+- UAE: 4–6 business days, PKR 1,800 flat fee
+- UK/USA/Canada/Australia: 8–12 business days, PKR 3,500 flat fee
+International orders above PKR 15,000 get 50% off shipping.
+Note: International customers are responsible for customs duties in their country.
+
+### Courier Partners
+We use TCS, Leopards Courier, and M&P for domestic deliveries. DHL is used for international shipments.
+
+### What if My Order is Delayed?
+If your order exceeds the expected delivery time by more than 2 business days, contact us with your Order ID. We will investigate with the courier and update you within 24 hours. In rare cases of lost parcels, we will either resend the order or issue a full refund.
+
+---
+
+## Returns & Exchanges
+
+### Return Policy
+We accept returns within 7 days of delivery. Items must be:
+- Unused and unwashed
+- In original packaging with all tags attached
+- Not from the sale/clearance section (sale items are non-returnable)
+
+### How to Initiate a Return
+1. Email support@stylemart.pk with subject "Return Request – [Order ID]".
+2. Mention the reason for return and attach photos if the item is defective.
+3. Our team will respond within 24 hours with a return authorization.
+4. Pack the item securely and hand it to TCS. We provide a free return label for defective items.
+5. Once received, refund or exchange is processed within 5–7 business days.
+
+### Exchange Policy
+Exchanges for size or color are allowed within 7 days. Subject to stock availability. If the desired size/color is not available, a full refund is offered.
+
+### What Items Cannot Be Returned?
+- Sale/clearance items
+- Innerwear, lingerie, and swimwear (for hygiene reasons)
+- Customized or stitched-to-order garments
+- Items damaged due to customer misuse (wrong washing, etc.)
+- Items returned after 7 days
+
+### Defective or Wrong Item Received
+If you receive a defective item or the wrong product:
+- Take photos immediately and email support@stylemart.pk within 48 hours of delivery.
+- We will either send a replacement at no extra cost or issue a full refund including original shipping charges.
+This is treated as top priority and resolved within 1–2 business days.
+
+---
+
+## Payments & Refunds
+
+### Accepted Payment Methods
+1. Credit/Debit Card (Visa, Mastercard, UnionPay)
+2. EasyPaisa (Mobile Account & OTC)
+3. JazzCash (Mobile Account)
+4. Cash on Delivery (COD) — available on orders up to PKR 10,000
+5. Bank Transfer (for bulk/wholesale orders only)
+
+### Is My Payment Secure?
+Yes. All card payments are processed through a PCI-DSS compliant payment gateway with 256-bit SSL encryption. StyleMart does not store your card details on our servers.
+
+### Cash on Delivery (COD)
+COD is available for orders up to PKR 10,000 within Pakistan. Exact cash is appreciated. Our courier cannot give change for large denominations. COD is not available for international orders.
+
+### Refund Processing Time
+- Card payments: 5–7 business days to reflect in your bank account
+- EasyPaisa/JazzCash: 2–3 business days
+- Store credit: Instant (if you choose store credit instead of a refund)
+Store credit never expires and can be used on any future order.
+
+### I Was Charged Twice / Wrong Amount Charged
+Contact support@stylemart.pk immediately with your bank statement screenshot and Order ID. We investigate within 24 hours. If confirmed, a full correction is made within 3 business days.
+
+---
+
+## Sizing & Products
+
+### Size Guide
+All product pages have a size chart under the "Size Guide" tab. Measurements are in inches.
+
+Women's sizes (chest):
+- XS: 32", S: 34", M: 36", L: 38", XL: 40", XXL: 42"
+
+Men's sizes (chest):
+- S: 36", M: 38", L: 40", XL: 42", XXL: 44", 3XL: 46"
+
+Kids' sizes are age-based: 2Y, 4Y, 6Y, 8Y, 10Y, 12Y, 14Y.
+
+If you are between sizes, we recommend sizing up for a comfortable fit, especially for stitched garments.
+
+### Are the Colors Accurate?
+We make every effort to display colors accurately. However, due to different screen settings, colors may appear slightly different in person. If you are unsure, contact support and we can send you a fabric swatch photo in natural lighting.
+
+### Fabric & Material Information
+Fabric details (e.g., 100% cotton, lawn, khaddar, linen, chiffon) are listed on each product page under "Product Details". If a detail is missing, contact us and we'll provide it.
+
+### Stitched vs Unstitched Clothing
+- Stitched items are ready-to-wear in standard sizes.
+- Unstitched items are fabric pieces (usually 3-piece lawn/khaddar suits) that require tailoring.
+Unstitched suits cannot be returned once cut by a tailor.
+
+### Is the Product I Want Out of Stock?
+If an item shows "Out of Stock", click "Notify Me" to receive an SMS/email when it is restocked. Restock timelines vary; popular items restock within 1–2 weeks.
+
+---
+
+## Account & Website
+
+### How to Create an Account
+1. Click "Sign Up" on the top right of the website.
+2. Enter your name, email, and phone number.
+3. Set a password (minimum 8 characters with at least one number).
+4. Verify your email via the link sent to you.
+You can also check out as a guest without creating an account.
+
+### I Forgot My Password
+1. Click "Login" then "Forgot Password".
+2. Enter your registered email.
+3. You will receive a password reset link valid for 30 minutes.
+4. If you don't receive the email, check spam or contact support.
+
+### How to Save Addresses
+After logging in, go to "My Account" → "Saved Addresses". You can save up to 5 delivery addresses and set one as default.
+
+### How to View Order History
+Log in → "My Account" → "My Orders". You can see all past and current orders, their status, and download invoices.
+
+### How to Use a Promo Code
+At checkout, there is a "Promo Code" field. Enter the code and click "Apply" before placing the order. Promo codes cannot be applied after an order is placed. Only one promo code can be used per order.
+
+---
+
+## Promotions & Discounts
+
+### Current Promotions
+- Summer Sale: Up to 50% off on selected lawn collections (valid until June 30)
+- First Order Discount: Use code FIRST10 for 10% off your first order (min order PKR 1,500)
+- Birthday Discount: Register your birthday in your profile to receive a 15% discount code on your birthday month.
+- Bulk Buy: Buy 3 or more items from the same category and get 10% off automatically.
+
+### Loyalty Points Program
+Every PKR 100 spent = 1 StylePoint. Points can be redeemed as:
+- 100 points = PKR 50 off your next order
+Points expire after 12 months of inactivity. View your points in "My Account" → "My Points".
+
+### Student Discount
+Students can avail a 10% discount by verifying their student status. Email support@stylemart.pk with a photo of your valid student ID. Verification takes 1–2 business days. Discount is applied as a personal promo code.
+
+---
+
+## Wholesale & Bulk Orders
+
+### Wholesale Ordering
+StyleMart offers wholesale pricing for orders above PKR 50,000. Wholesale customers get:
+- 20–30% below retail pricing
+- Dedicated account manager
+- Net-30 payment terms (after credit approval)
+- Priority dispatch within 1 business day
+
+To apply for a wholesale account, email wholesale@stylemart.pk with your business name, NTN number, and estimated monthly volume.
+
+---
+
+## Contact & Escalation
+
+### How to Contact Support
+- Email: support@stylemart.pk (response within 4 business hours)
+- Phone: +92-21-1234-5678 (Mon–Sat, 10 AM – 7 PM PKT)
+- WhatsApp: +92-300-1234-567 (Mon–Sat, 10 AM – 9 PM PKT)
+- Live Chat: Available on website during business hours
+
+### Complaint Escalation
+If you are not satisfied with the resolution provided by our support team, you can escalate to our Customer Experience Manager by emailing manager@stylemart.pk. Escalated complaints are reviewed and responded to within 1 business day.

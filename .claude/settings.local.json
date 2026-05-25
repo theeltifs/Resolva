@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(try { $r = Invoke-WebRequest \"http://localhost:8000/health\" -UseBasicParsing -TimeoutSec 3; $r.Content } catch { \"OFFLINE: $_\" })",
+      "PowerShell(try { $r = Invoke-WebRequest \"http://localhost:5173\" -UseBasicParsing -TimeoutSec 3; \"ONLINE\" } catch { \"OFFLINE: $_\" })",
+      "PowerShell($r = Invoke-WebRequest \"http://localhost:8000/health\" -UseBasicParsing; \"STATUS: $\\($r.StatusCode\\) | BODY: $\\($r.Content\\)\")",
+      "PowerShell(Start-Sleep -Seconds 3; try { $r = Invoke-WebRequest \"http://localhost:8000/health\" -UseBasicParsing -TimeoutSec 3; $r.Content } catch { \"OFFLINE\" })"
+    ]
+  }
+}

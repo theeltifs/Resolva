@@ -1,0 +1,72 @@
+Resolva AI Support — Sample Knowledge Base
+==========================================
+
+## Refund Policy
+We offer a full 30-day money-back guarantee on all plans. To request a refund, email support@resolva.ai with your order ID and reason. Refunds are processed within 5-7 business days back to your original payment method. After 30 days, refunds are not available but you may cancel anytime.
+
+## Pricing Plans
+- Starter: Free — up to 100 questions/month, 1 company, community support
+- Pro: $29/month — unlimited questions, 5 companies, email escalation, priority support
+- Enterprise: Custom pricing — unlimited everything, SLA guarantee, dedicated support manager, SSO
+
+## How to Upload a Knowledge Base
+1. Go to the Upload KB tab in the admin panel.
+2. Enter your Company ID (e.g. "acme-corp").
+3. Enter your Upload API Key (found in Settings > API Keys).
+4. Select a PDF or TXT file (max 10MB).
+5. Click Upload & Index.
+The system splits your document into chunks, embeds them locally, and stores them in ChromaDB.
+
+## Supported File Formats
+We support PDF (.pdf) and plain text (.txt) files for knowledge base uploads. Future support for DOCX and HTML is planned for Q3.
+
+## How Does Escalation Work?
+When the AI cannot answer with sufficient confidence (below 0.65 by default), it automatically:
+1. Creates a support ticket in the database.
+2. Sends an email notification to your configured human agent email address.
+3. Shows the customer an escalation message and tells them a human will follow up.
+The escalation threshold is configurable via the CONFIDENCE_THRESHOLD environment variable.
+
+## How to Change the Escalation Threshold
+Set CONFIDENCE_THRESHOLD in your backend .env file. The value ranges from 0.0 to 1.0.
+- Higher value (e.g. 0.80): escalates more often, more conservative
+- Lower value (e.g. 0.50): lets the AI handle more queries, less conservative
+Default is 0.65.
+
+## API Rate Limits
+The chat API is rate-limited to 20 requests per minute per IP address on the default configuration. Enterprise plans can configure higher limits.
+
+## Technical Requirements
+- Backend: Python 3.11+ with pip
+- Frontend: Node.js 18+
+- GPU: Not required. sentence-transformers runs on CPU.
+- RAM: Minimum 1GB recommended (sentence-transformers model is ~90MB loaded)
+
+## How to Reset a Conversation Session
+Each conversation has a unique session_id. To start a fresh conversation, click "New session" in the chat widget or omit the session_id field in the API request.
+
+## How to Resolve a Support Ticket
+1. Go to the Tickets tab in the admin panel.
+2. Find the open ticket.
+3. Click the "Resolve" button.
+4. The ticket status changes to "resolved".
+You can also resolve via API: PATCH /tickets/{ticket_id}/resolve
+
+## Data Privacy and Storage
+All conversation data is stored locally in your SQLite database (resolva.db).
+Vector embeddings are stored locally in ChromaDB (./chroma_db directory).
+No conversation data is sent to third parties except:
+- Groq API for LLM inference (question + retrieved context only)
+- Resend for email notifications (ticket details only, when escalation email is configured)
+
+## Deployment Warning — ChromaDB Persistence
+On Railway and Render free tier, the filesystem is ephemeral. ChromaDB and SQLite data will be lost on every restart or redeploy. To persist data, use a paid persistent volume or switch to Chroma Cloud (free tier available) for vector storage.
+
+## How to Configure Email Notifications
+Set these in your backend .env:
+- RESEND_API_KEY: Your Resend.com API key (free tier: 3,000 emails/month)
+- HUMAN_AGENT_EMAIL: The email address to notify when a ticket is escalated
+The from address uses Resend's sandbox sender (onboarding@resend.dev) which works without domain verification.
+
+## Company ID Explained
+Each company has its own isolated knowledge base in ChromaDB. When uploading documents, assign a company_id (e.g. "acme"). When chatting, pass the same company_id so the AI retrieves from the correct knowledge base. Multiple companies can share one Resolva backend.
